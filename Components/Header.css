@@ -1,0 +1,13 @@
+.header {
+    padding: 15px 0;
+    text-align: left;
+    background: rgb(2, 2, 2);
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .header img {
+    width: 120px;
+    height: 40px;
+    color: rgb(253, 253, 253);
+  }
+
