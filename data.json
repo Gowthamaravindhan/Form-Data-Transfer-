@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "fullName": "Raina",
+      "Age": "35",
+      "Gender":"Male",
+      "DOB":"20-06-1988",
+      "PhoneNumber": "9840984023",
+      "Email": "raina@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Barvo",
+      "Age": "37",
+      "Gender":"Male",
+      "DOB":"02-08-1988",
+      "PhoneNumber": "9876543210",
+      "Email": "barvo@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Dhoni",
+      "Age": "39",
+      "Gender":"Male",
+      "DOB":"07-06-1981",
+      "PhoneNumber": "9865321470",
+      "Email": "Mahi@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "KL Rahul",
+      "Age": "28",
+      "Gender":"Male",
+      "DOB":"18-04-1993",
+      "PhoneNumber": "8796210530",
+      "Email": "kl.rahul@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Kohli",
+      "Age": "32",
+      "Gender":"Male",
+      "DOB":"10-08-1988",
+      "PhoneNumber": "7856491230",
+      "Email": "kohli.rcb@gmail.com"
+    }
+  ]
+  
