@@ -10,7 +10,7 @@ const Header = () => {
       <img src= {logo} alt="Alpha Adventise" />
       <br></br>
       <br></br>
-      <h2>Simple Sheet</h2>
+      <h2>Simple CR Sheet</h2>
     </div>
   );
 }
